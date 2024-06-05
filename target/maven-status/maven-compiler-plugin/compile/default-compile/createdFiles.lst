@@ -1,5 +1,6 @@
 ru\aston\tomcat\model\Person.class
 ru\aston\tomcat\servlet\PersonServlet.class
+ru\aston\tomcat\Main.class
 ru\aston\tomcat\servlet\PersonServletWithService.class
 ru\aston\tomcat\service\PersonService.class
 ru\aston\tomcat\servlet\PersonServletWithJsp.class
